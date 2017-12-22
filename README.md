@@ -1,4 +1,5 @@
 # pong
+**(Original Code From: https://github.com/subdigital/pong)**
 
 A pong game, written in Ruby using Gosu. Sound effects were created with [Bfxr](http://www.bfxr.net).
 
